@@ -1,0 +1,8 @@
+.checkCircle {
+    min-height: 100px;
+    aspect-ratio: 1;
+}
+
+.checkCircle, .titleText {
+    background: radial-gradient(50% 115.18% at 50% -15.18%, #8F00FF 0%, #532BC5 100%);
+}
